@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+I'm Louis Boyle, Junior full-stack web developer.
+
+This site will serve as a portfolio for my projects.
