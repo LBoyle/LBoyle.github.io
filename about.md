@@ -4,6 +4,13 @@ title: About Me
 ---
 
 
+# Bio
+
+Since I was given my first computer in 2000, I’ve been learning about them, how they work and how to make them. I was doing light manufacturing to pay my way while I taught myself to code.
+
+I really enjoy making cool stuff.
+
+
 # Techs
 
 ### Strong:
@@ -36,17 +43,10 @@ title: About Me
 - Work on existing skills
 - React.js
 - Golang
-- Perhaps Elixir in the future?
+- Perhaps elixir?
 
 
-I try not to predict the future, web development is a fast moving world.
-
-
-# Bio
-
-Since I was given my first computer in 2000, I’ve been learning about them, how they work and how to make them. I was doing light manufacturing to pay my way while I taught myself to code.
-
-I really enjoy making cool stuff
+I try not to predict the future, web development moves quickly.
 
 
 ## Hobbies

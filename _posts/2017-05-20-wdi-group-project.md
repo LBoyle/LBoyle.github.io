@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WDI Group project
-summary: WHAT'S YOUR BEEF is an app directed at both vegans and non-vegans who can share their own vegan versions of various recipes.
+summary: WHAT'S YOUR BEEF is an app directed at both vegans and non-vegans who can share their own vegan versions of popular recipes.
 ---
 
 WHAT'S YOUR BEEF is an app directed at both vegans and non-vegans who can share their own vegan versions of various recipes.
