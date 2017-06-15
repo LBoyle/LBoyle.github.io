@@ -38,7 +38,7 @@ I really enjoy making cool stuff.
 - Sentiment analysis,
 - Unity game development,
 - C, C++, MS DOS,
-- Now golang
+- Now golang.
 
 ### Future:
 - Work on existing skills
