@@ -37,12 +37,13 @@ I really enjoy making cool stuff.
 - Python machine learning, SciKit, TensorFlow,
 - Sentiment analysis,
 - Unity game development,
-- C, C++, MS DOS.
+- C, C++, MS DOS,
+- Now golang
 
 ### Future:
 - Work on existing skills
 - React.js
-- Golang
+- golang
 - Perhaps elixir?
 
 
