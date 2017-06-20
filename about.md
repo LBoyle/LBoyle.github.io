@@ -52,13 +52,10 @@ I try not to predict the future, web development moves quickly.
 
 ## Hobbies
 
-Above all else I'm into computer hardware, I've been buying end-of-life datacenter hardware because price to performance is mental. I'm running a website off a dual-Xeon machine in my bedroom.
+I spend most of my money on old server hardware, playing with anything interesting, trying Linux distros, playing with virtual machines, web and game servers and Python, basic machine learning. I really enjoy using powerful computers like my super cheap frankenstein’s monster machine, though the energy bill is burning a hole in my pocket. I do ‘restarter parties’ every now and then, fixing electronics for free for people who don’t know how.
+I would call web development a hobby, it certainly was before I began studying in earnest. 
 
-### Others
-- Cycling.
-- Sailing.
-- Good coffee.
-- Folk music and Americana.
-- Hiking and wild camping.
-- Baking cakes. As a hobby.
-- Coding, I guess.
+I do some sailing and sailing instruction, cycling, hiking and wild camping, downhill skateboarding, I used to row and fence. One of my long term goals is to buy a yacht and sail it around the world.
+I kick serious butt at a Dragon Ball Z game for PS2, and I do some speedrunning and looking for exploits, I’ve spent less time invested in games recently.
+I like cooking and eating healthy, mostly, or eating cake, good coffee and good gin.
+I play a lot of guitar, and go to a few music events, I recently saw Hiatus Kaiyote, Thundercat, Bentley Rhythm Ace, Leftfield, not at the same time sadly, and I want to see Snarky Puppy.
