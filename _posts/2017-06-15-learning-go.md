@@ -21,6 +21,6 @@ Interfacing an app with MongoDB using MGO.
 Made a server that sends JSON responses to HTTP requests. Used MGO for routing, made a couple of structs.
 
 
---
+
 
 [GitHub repo](https://github.com/LBoyle/learning-go)
